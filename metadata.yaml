@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: Translation of P'tit-bonhomme vol. 1.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46180#Der-Findling.-Erster-Band.
 gutenberg_issued: '2014-07-03'
 gutenberg_type: Text
 identifiers:
